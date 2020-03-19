@@ -2,7 +2,11 @@
 %%BoundingBox: -71 -69 71 72 
 %%HiResBoundingBox: -70.56996 -68.42029 70.56996 71.29121 
 %%Creator: MetaPost 2.00
+<<<<<<< HEAD
 %%CreationDate: 2020.03.11:1850
+=======
+%%CreationDate: 2020.03.19:2232
+>>>>>>> 5f9b23ba97b283658955c51f41e5a8596196b7a5
 %%Pages: 1
 %%BeginProlog
 %%EndProlog
@@ -114,8 +118,13 @@ newpath 8.31358 63.32143 moveto
 -38.31259 59.61586 lineto
 0 70.86601 lineto
  closepath fill
+<<<<<<< HEAD
  0.5 0.5 0.5 setrgbcolor 0 0.8504 dtransform truncate idtransform setlinewidth pop
  [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+=======
+ 0.5 0.5 0.5 setrgbcolor 0 0.8504 dtransform truncate idtransform setlinewidth pop [] 0 setdash
+ 1 setlinecap 1 setlinejoin 10 setmiterlimit
+>>>>>>> 5f9b23ba97b283658955c51f41e5a8596196b7a5
 newpath 64.6255 -2.22995 moveto
 70.14476 -10.08556 lineto stroke
 newpath 61.57732 17.8847 moveto
@@ -400,8 +409,12 @@ newpath 54.16158 -18.88945 moveto 0 0 rlineto stroke
 newpath 48.30196 -39.8563 moveto 0 0 rlineto stroke
 newpath 61.57732 17.8847 moveto 0 0 rlineto stroke
 newpath 64.6255 -2.22995 moveto 0 0 rlineto stroke
+<<<<<<< HEAD
  0 0 0 setrgbcolor 0 0.8504 dtransform truncate idtransform setlinewidth pop
  [0 2.5 ] 1.25 setdash
+=======
+ 0 0 0 setrgbcolor 0 0.8504 dtransform truncate idtransform setlinewidth pop [0 2.5 ] 1.25 setdash
+>>>>>>> 5f9b23ba97b283658955c51f41e5a8596196b7a5
 newpath -34.13638 -53.00734 moveto
 -31.50862 -48.79471 lineto
 -29.74738 -45.96315 -27.99341 -43.12706 -26.23972 -40.29082 curveto
